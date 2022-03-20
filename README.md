@@ -1,7 +1,7 @@
 
 You can [preview the completed demo app here](https://catstronaut-app-client.herokuapp.com).
 
-You can [find the server counterpart here](https://github.com/apollographql/odyssey-lift-off-part5-server).
+You can [find the server counterpart here](https://github.com/amrutsabale/odyssey-lift-off-part5-server).
 
 ## How to use this repo
 
